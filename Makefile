@@ -6,14 +6,14 @@
 #    By: kmaneera <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2020/02/24 10:43:37 by kmaneera          #+#    #+#              #
-#    Updated: 2020/02/24 10:43:52 by kmaneera         ###   ########.fr        #
+#    Updated: 2020/08/19 13:16:05 by kmaneera         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-NAME = fdf
+NAME = FdF
 
 CC = gcc
-FLAGS = -Wall -Werror -Wextra -O3 
+FLAGS = -Wall -Werror -Wextra -O3
 LIBS = -lmlx -lm -lft -L$(LIBFT_DIR) -L$(MINILIBX_DIR) -framework OpenGL -framework AppKit
 INC = -I$(HEADERS_DIR) -I$(LIBFT_HEADERS) -I$(MINILIBX_HEADERS)
 
