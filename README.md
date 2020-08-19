@@ -8,7 +8,7 @@ All of the features were implemented from scratch without any help from external
 - [x] Color gradient relative to height
 - [X] Interactive height adjustment
 - [x] Changable projection types
-including some cool hidden features, try it yourself!:wink:
+including some cool hidden features, try it yourself :wink:
 ### Requirements
 This project relies on MiniLibX and can be run only on MacOS.
 ### Installations
