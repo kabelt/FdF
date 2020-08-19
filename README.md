@@ -1,5 +1,5 @@
 # FdF :milky_way:
-A C program with an ability to transform topography data coming in the form of a text file based on [ARC/INFO Grid Format](https://en.wikipedia.org/wiki/Esri_grid) whose headers are removed, to be a 3D graphic represention.\
+A C program with an ability to transform topography data coming in the form of an [ARC/INFO ASCII GRID] file(https://en.wikipedia.org/wiki/Esri_grid) whose headers are removed to be a 3D graphic representation.\
 All of the features were implemented from scratch without any help from external libraries. :star:
 <img width="2032" alt="Screen Shot 2020-08-19 at 11 37 48" src="https://user-images.githubusercontent.com/49394144/90598263-e8bec700-e21c-11ea-83e3-4ba13f73934f.png">
 ### Features
